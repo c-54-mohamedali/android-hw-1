@@ -1,0 +1,22 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+     
+
+int x=18;
+int y=mohamed ali;
+
+System.out.println(x);
+
+System.out.println(y);
+
+if(x>18){
+System.out.println("congrats mohamed ali your gonna have driving licenses");
+
+else(x<18)
+System.out.println("sorry mohamed ali your still young to have driving licenses")
+
+}
+
+for (System.out.println)
